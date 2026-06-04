@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--newedspravticevj--learningaemeds-vj.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Live: https://main--newedspravticevj--learningaemeds-vj.aem.live/
 
 ## Documentation
 
